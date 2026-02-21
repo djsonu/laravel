@@ -54,7 +54,7 @@ I’m a passionate developer with extensive experience in building real-world we
 ## 📌 Let’s Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/sonu-kumar-0003b541  
-📫 Email: _Add your email here if you want_
+📫 Email: sonusinghkund@gmail.com
 
 ---
 
