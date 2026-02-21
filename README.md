@@ -1,65 +1,97 @@
-# 👋 Hi, I'm Sonu Kumar (djsonu)
+# Hi 👋 I'm Sonu Kumar
 
-🚀 **Lead Software Engineer | Senior Laravel Developer**  
-💻 Strong background in Full-Stack web development and scalable backend systems.
+## 🚀 Senior Backend & Platform Engineer | Payments & Retail Systems Architect
 
----
+Backend engineering leader with 10+ years of experience designing and scaling high-availability, revenue-critical systems across fintech, retail, payments, media, and travel-tech domains.
 
-## 🧠 About Me
-
-I’m a passionate developer with extensive experience in building real-world web applications and backend systems. I’ve been working with **PHP, Laravel, MySQL, HTML/CSS/JS** for over a decade, and I thrive on writing clean, efficient, and maintainable code.
-
-📌 I’ve worked across multiple industries including  
-**IT, BPO, Healthcare, Hospitality, Logistics, and Media**.
+I specialize in microservices architecture, large-scale API platforms, distributed systems, and production-grade Laravel/PHP applications deployed on AWS.
 
 ---
 
-## 🛠️ What I Do
+## 🧠 What I Do
 
-- 🎯 Backend Architecture & REST API Development  
-- ⚙️ Laravel & PHP Expert (7+ years Laravel, 12+ years PHP)  
-- 🗄️ Database Design & Optimization (MySQL)  
-- ☁️ AWS & EC2 Infrastructure Management  
-- 🔁 CI/CD Implementation  
-- 🌐 Full Stack Web Development (Frontend + Backend)  
-- 📊 Implementation of Analytics (Google Analytics)
-
----
-
-## 💻 Tech Stack
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-### DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+- Architect high-throughput transaction systems
+- Design scalable microservices & REST platforms
+- Lead backend engineering for revenue-critical platforms
+- Build secure, compliant payment & onboarding systems
+- Drive CI/CD, reliability, and long-term maintainability
+- Mentor and lead distributed engineering teams (US timezone aligned)
 
 ---
 
-## 📈 GitHub Stats
+## 🏗️ Core Expertise
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djsonu&show_icons=true&theme=dark)
+- Backend Architecture & System Design
+- Laravel / PHP 8+ Platform Engineering
+- Large-Scale REST APIs & Microservices
+- Payments, POS & Retail Systems
+- High-Volume Transaction Processing
+- Database Design & Performance Tuning (MySQL)
+- AWS Cloud Deployment (EC2, S3, RDS)
+- Linux, Nginx Infrastructure
+- OAuth2, JWT Authentication
+- Engineering Leadership & Code Reviews
+- Generative AI Fundamentals & AI API Integration
 
 ---
 
-## 📌 Let’s Connect
+## 💼 Industry Experience
 
-🔗 LinkedIn: https://www.linkedin.com/in/sonu-kumar-0003b541  
-📫 Email: sonusinghkund@gmail.com
+I have built and scaled platforms across:
+
+- Fintech & Digital Payments
+- Retail & POS Systems
+- Travel-Tech & Global Redemption Platforms
+- Media & High-Traffic Content Platforms
+- Logistics & ERP Systems
 
 ---
 
-## 🎯 You’ll Find Here
+## 🌍 Impact Highlights
 
-⭐ Personal projects showing best practices  
-📂 Clean and structured Laravel repositories  
-📈 Real world examples of APIs, architecture & DevOps
+- Built distributed redemption platform supporting 380+ airports across 100+ countries
+- Designed Aadhaar eSign & verification APIs integrated with NSDL
+- Architected retail & payments microservices handling high transaction throughput
+- Contributed to platforms serving millions of daily users
+- Enabled multi-crore revenue growth through scalable backend systems
+
+---
+
+## 🛠️ Technology Stack (Intentional & Focused)
+
+**Languages:**  
+PHP 8+, JavaScript  
+
+**Frameworks:**  
+Laravel, Slim  
+
+**Databases:**  
+MySQL (schema design, indexing, query optimization)  
+
+**Architecture:**  
+Microservices, MVC, SOA, Distributed Systems  
+
+**Cloud & Infra:**  
+AWS (EC2, S3, RDS), Linux, Nginx  
+
+**APIs & Security:**  
+REST APIs, OAuth2, JWT  
+
+**Tools:**  
+Git, CI/CD, Jira, PHPStorm  
+
+---
+
+## 🎯 Engineering Philosophy
+
+- Systems > Scripts  
+- Scalability from Day One  
+- Clean Architecture & Clear Boundaries  
+- Performance & Observability First  
+- Secure by Design  
+- Production-Ready or Not Ready  
+
+---
+
+📫 Let’s Connect  
+LinkedIn: https://www.linkedin.com/in/sonu-kumar-0003b541
